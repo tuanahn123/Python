@@ -1,4 +1,4 @@
-# Module nmap sử dụng để tương tác với Nmap, một công cụ để quét mạng miễn phí
+# Module nmap sử dụng để tương tác với Nmap, một công cụ để quét mạng
 import nmap
 # Khởi tạo đối tượng PortScanner để sử dụng quét các cổng
 portScanner = nmap.PortScanner()
